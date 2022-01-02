@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Constructores\bin\Debug\Constructores.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Constructores\bin\Debug\Constructores.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Constructores\obj\Debug\Constructores.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Constructores\obj\Debug\Constructores.pdb
