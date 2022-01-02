@@ -1,0 +1,6 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\IteracionArreglos\bin\Debug\IteracionArreglos.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\IteracionArreglos\bin\Debug\IteracionArreglos.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\IteracionArreglos\bin\Debug\IteracionArreglos.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\IteracionArreglos\obj\Debug\IteracionArreglos.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\IteracionArreglos\obj\Debug\IteracionArreglos.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\IteracionArreglos\obj\Debug\IteracionArreglos.pdb
