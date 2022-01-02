@@ -1,0 +1,6 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Ciclos\bin\Debug\Ciclos.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Ciclos\bin\Debug\Ciclos.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Ciclos\obj\Debug\Ciclos.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Ciclos\obj\Debug\Ciclos.pdb
