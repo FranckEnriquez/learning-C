@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClaseObject
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Persona p1 = new Persona("John", 31);
+            Persona p2 = new Persona("John", 31);
+            Persona p3 = p1;
+
+            // Comparación por referencia
+            Console.Write("Referencias p1 y p2 son iguales: ");
+            Console.WriteLine(p1 == p2);
+            Console.Write("Referencias p2 y p3 son iguales: ");
+            Console.WriteLine(p2 == p3);
+            Console.Write("Referencias p1 y p3 son iguales: ");
+            Console.WriteLine(p1 == p3);
+
+            Console.WriteLine();
+            // Comparación entre objetos
+            Console.Write("Objetos p1 y p2 son iguales: ");
+            Console.WriteLine(p1.Equals(p2));
+            Console.Write("Objetos p2 y p3 son iguales: ");
+            Console.WriteLine(p2.Equals(p3));
+            Console.Write("Objetos p1 y p3 son iguales: ");
+            Console.WriteLine(p1.Equals(p3));
+
+
+        }
+    }
+}

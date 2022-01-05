@@ -1,0 +1,6 @@
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

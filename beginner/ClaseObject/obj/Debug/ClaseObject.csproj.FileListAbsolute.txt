@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseObject\bin\Debug\ClaseObject.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseObject\bin\Debug\ClaseObject.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseObject\bin\Debug\ClaseObject.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseObject\obj\Debug\ClaseObject.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseObject\obj\Debug\ClaseObject.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseObject\obj\Debug\ClaseObject.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseObject\obj\Debug\ClaseObject.pdb
