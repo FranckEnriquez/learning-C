@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseArray\obj\Debug\ClaseArray.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseArray\obj\Debug\ClaseArray.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseArray\bin\Debug\ClaseArray.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseArray\bin\Debug\ClaseArray.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseArray\bin\Debug\ClaseArray.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseArray\obj\Debug\ClaseArray.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClaseArray\obj\Debug\ClaseArray.pdb

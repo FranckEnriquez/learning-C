@@ -1,0 +1,6 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.pdb

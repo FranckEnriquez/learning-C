@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Estructuras\bin\Debug\Estructuras.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Estructuras\bin\Debug\Estructuras.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Estructuras\obj\Debug\Estructuras.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Estructuras\obj\Debug\Estructuras.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Estructuras\obj\Debug\Estructuras.pdb

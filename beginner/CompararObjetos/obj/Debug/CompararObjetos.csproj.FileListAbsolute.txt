@@ -1,0 +1,6 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\CompararObjetos\bin\Debug\CompararObjetos.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\CompararObjetos\bin\Debug\CompararObjetos.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\CompararObjetos\bin\Debug\CompararObjetos.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\CompararObjetos\obj\Debug\CompararObjetos.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\CompararObjetos\obj\Debug\CompararObjetos.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\CompararObjetos\obj\Debug\CompararObjetos.pdb

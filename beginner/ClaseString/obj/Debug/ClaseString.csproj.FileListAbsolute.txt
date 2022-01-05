@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ClaseString\bin\Debug\ClaseString.exe.config
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ClaseString\bin\Debug\ClaseString.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ClaseString\bin\Debug\ClaseString.pdb
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ClaseString\obj\Debug\ClaseString.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ClaseString\obj\Debug\ClaseString.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ClaseString\obj\Debug\ClaseString.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ClaseString\obj\Debug\ClaseString.pdb

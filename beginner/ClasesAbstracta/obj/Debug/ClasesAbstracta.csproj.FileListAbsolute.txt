@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClasesAbstracta\obj\Debug\ClasesAbstracta.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClasesAbstracta\obj\Debug\ClasesAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClasesAbstracta\bin\Debug\ClasesAbstracta.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClasesAbstracta\bin\Debug\ClasesAbstracta.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClasesAbstracta\bin\Debug\ClasesAbstracta.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClasesAbstracta\obj\Debug\ClasesAbstracta.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\ClasesAbstracta\obj\Debug\ClasesAbstracta.pdb
