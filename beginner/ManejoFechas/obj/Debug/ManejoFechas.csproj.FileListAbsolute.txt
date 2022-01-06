@@ -1,0 +1,6 @@
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoFechas\bin\Debug\ManejoFechas.exe.config
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoFechas\bin\Debug\ManejoFechas.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoFechas\bin\Debug\ManejoFechas.pdb
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoFechas\obj\Debug\ManejoFechas.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoFechas\obj\Debug\ManejoFechas.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoFechas\obj\Debug\ManejoFechas.pdb

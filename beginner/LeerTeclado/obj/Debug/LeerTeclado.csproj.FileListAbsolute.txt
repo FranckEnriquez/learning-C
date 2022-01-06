@@ -1,0 +1,6 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\LeerTeclado\bin\Debug\LeerTeclado.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\LeerTeclado\bin\Debug\LeerTeclado.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\LeerTeclado\bin\Debug\LeerTeclado.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\LeerTeclado\obj\Debug\LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\LeerTeclado\obj\Debug\LeerTeclado.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\LeerTeclado\obj\Debug\LeerTeclado.pdb
