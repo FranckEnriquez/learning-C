@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe.config
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
