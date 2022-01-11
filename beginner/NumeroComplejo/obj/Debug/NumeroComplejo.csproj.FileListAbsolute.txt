@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\NumeroComplejo\obj\Debug\NumeroComplejo.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\NumeroComplejo\obj\Debug\NumeroComplejo.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\NumeroComplejo\bin\Debug\NumeroComplejo.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\NumeroComplejo\bin\Debug\NumeroComplejo.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\NumeroComplejo\bin\Debug\NumeroComplejo.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\NumeroComplejo\obj\Debug\NumeroComplejo.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\NumeroComplejo\obj\Debug\NumeroComplejo.pdb

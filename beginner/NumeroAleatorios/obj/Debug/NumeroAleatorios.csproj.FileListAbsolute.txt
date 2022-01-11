@@ -1,0 +1,6 @@
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\NumeroAleatorios\bin\Debug\NumeroAleatorios.exe.config
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\NumeroAleatorios\bin\Debug\NumeroAleatorios.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\NumeroAleatorios\bin\Debug\NumeroAleatorios.pdb
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\NumeroAleatorios\obj\Debug\NumeroAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\NumeroAleatorios\obj\Debug\NumeroAleatorios.exe
+C:\Users\L03523770\Documents\repositories\C#\Tutoriales\NumeroAleatorios\obj\Debug\NumeroAleatorios.pdb
