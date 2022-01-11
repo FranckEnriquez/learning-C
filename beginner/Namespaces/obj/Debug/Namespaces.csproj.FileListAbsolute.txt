@@ -1,0 +1,7 @@
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Namespaces\bin\Debug\Namespaces.exe.config
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Namespaces\obj\Debug\Namespaces.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Namespaces\obj\Debug\Namespaces.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\Namespaces\obj\Debug\Namespaces.pdb

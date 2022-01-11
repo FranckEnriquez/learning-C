@@ -1,0 +1,11 @@
+C:\Users\enrique.munguia\Documents\Curso C#\MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.exe
+C:\Users\enrique.munguia\Documents\Curso C#\MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.pdb
+C:\Users\enrique.munguia\Documents\Curso C#\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Curso C#\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.exe
+C:\Users\enrique.munguia\Documents\Curso C#\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.pdb
+C:\Users\L03523770\Documents\repositories\C# - tutorial\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.csproj.AssemblyReference.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.csproj.CoreCompileInputs.cache
+C:\Users\L03523770\Documents\repositories\C# - tutorial\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.exe
+C:\Users\L03523770\Documents\repositories\C# - tutorial\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.pdb
