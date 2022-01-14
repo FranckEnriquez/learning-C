@@ -1,7 +1,0 @@
-C:\Users\L03523770\Documents\repositories\C# - tutorial\OperacionesMatriciales\bin\Debug\OperacionesMatriciales.exe.config
-C:\Users\L03523770\Documents\repositories\C# - tutorial\OperacionesMatriciales\bin\Debug\OperacionesMatriciales.exe
-C:\Users\L03523770\Documents\repositories\C# - tutorial\OperacionesMatriciales\bin\Debug\OperacionesMatriciales.pdb
-C:\Users\L03523770\Documents\repositories\C# - tutorial\OperacionesMatriciales\obj\Debug\OperacionesMatriciales.csproj.CoreCompileInputs.cache
-C:\Users\L03523770\Documents\repositories\C# - tutorial\OperacionesMatriciales\obj\Debug\OperacionesMatriciales.exe
-C:\Users\L03523770\Documents\repositories\C# - tutorial\OperacionesMatriciales\obj\Debug\OperacionesMatriciales.pdb
-C:\Users\L03523770\Documents\repositories\C# - tutorial\OperacionesMatriciales\obj\Debug\OperacionesMatriciales.csproj.AssemblyReference.cache
